@@ -2,7 +2,8 @@
   "name": "dependabot-malware-test",
   "private": true,
   "version": "1.0.0",
-  "dependencies": {
+  "dependencies": 
+  {
     "react-devkit": "1.0.0",
     "psxjson": "1.0.3",
     "nintendoamerica-ncom": "99.0.21",
