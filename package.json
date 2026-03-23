@@ -1,0 +1,12 @@
+{
+  "name": "dependabot-malware-test",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "react-devkit": "1.0.0",
+    "psxjson": "1.0.3",
+    "nintendoamerica-ncom": "99.0.21",
+    "graphbase-js": "2.2.0",
+    "uipathisfun": "1.0.41"
+  }
+}
