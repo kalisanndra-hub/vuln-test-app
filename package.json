@@ -2,6 +2,7 @@
   "name": "ghas-malware-test",
   "version": "1.0.0",
   "dependencies": {
-   "react-devkit": "1.0.0",
+    "innocent-pkg": "*",
+    "bignumber.js-new": "*"
   }
 }
