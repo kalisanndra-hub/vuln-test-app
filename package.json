@@ -1,8 +1,7 @@
 {
   "name": "ghas-malware-test",
   "version": "1.0.0",
-  "description": "Test repo for Dependabot malware alerting",
   "dependencies": {
-    "event-stream": "3.3.6"
+    "debug": "4.4.2"
   }
 }
