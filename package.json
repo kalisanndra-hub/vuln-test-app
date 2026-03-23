@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "dependencies": {
    "react-devkit": "1.0.0",
-   "psxjson": "1.0.3"
   }
 }
